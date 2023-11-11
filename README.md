@@ -44,6 +44,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
 ![React](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
