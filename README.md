@@ -21,7 +21,7 @@
 
 ### I am Dang Hao
 - A MERN-Stack Developer & Open Source enthusiast.
-- Student at University of Information Technology.
+- Student at Academy Of Cryptography Techniques (Viet Nam).
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
