@@ -13,28 +13,22 @@
   <img align="left" alt="Darshan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-
-
 <br />
 <img align="right" alt="GIF" src="https://github.com/haotamht/haotamht/blob/main/rick.gif" />
 
 ### I am Dang Hao
-- A MERN-Stack Developer & Open Source enthusiast.
-- Student at Academy Of Cryptography Techniques (Viet Nam).
-- Currently working on some of my cool side projects based on Web Development.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+😊 A MERN-Stack Developer & Open Source enthusiast.
+💻 Student at Academy of Cryptography Techniques (Vietnam).
+🚀 Currently working on exciting Full-Stack Development side projects.
+🌟 Passionate about learning and contributing to the tech community, especially in the open-source space.
+🔍 Actively seeking opportunities to grow, collaborate, and make an impact in the field of software development.
 
-⭐️ From [Dang Hao](https://github.com/haotamht)
+⭐️ From [Dang Hao](https://github.com/danqha0)
 
 ### Languages
 
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=c%2b%2b&logoColor=C#)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
