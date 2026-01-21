@@ -1,9 +1,9 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.instagram.com/danqha0/">
+<a href="https://x.com/@danqha0">
   <img align="left" alt="danqha0's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" />
 </a>
-<a href="https://facebook.com/danqha0">
+<a href="https://t.me/danqha0">
   <img align="left" alt="danqha0's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/telegram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/h%C3%A0o-%C4%91%C4%83ng-7a5249203/">
